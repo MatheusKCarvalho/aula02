@@ -22,3 +22,4 @@ if(salario >= 1000) {
 }
 
 //se for menor que 1000 20%, entre 1000 e 200
+//
