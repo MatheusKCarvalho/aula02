@@ -12,3 +12,4 @@ else{
     console.log("o " + aluno  +  " está reprovado com a media de " + media)
 
 }
+                                
